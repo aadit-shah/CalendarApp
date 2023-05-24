@@ -7,6 +7,7 @@ import { Text } from 'react-native';
 function StartingScreen() {
   return (
         //Background
+        // Testing comment
         <ImageBackground 
             style={styles.background}
             source={require('../assets/Starting_Background.jpg')}
